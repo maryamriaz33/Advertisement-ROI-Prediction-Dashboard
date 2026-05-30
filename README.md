@@ -78,11 +78,6 @@ To help businesses optimize their digital marketing strategy by identifying high
 
 This project demonstrates how data analytics can improve marketing efficiency, reduce wasted ad spend, and support strategic decision-making.
 
----
-
-## 📷 Dashboard Preview
-
-(Add screenshots here)
 
 ---
 
